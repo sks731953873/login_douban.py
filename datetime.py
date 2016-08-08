@@ -1,3 +1,4 @@
+##年月日出现附属情况
 import time as t
 
 class MyTimer:
