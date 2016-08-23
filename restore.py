@@ -76,3 +76,7 @@ class Usb(object):
 if __name__ == '__main__':
 	usb_l = Usb.iter_usb()
 	print usb_l
+
+
+8/24/16, 2:37 AM: Attach D111AP device "iPhone" (AMDevice 0x100329ec0 {UDID = f302cd98732cba245790ac74931aa2bc84bed078, device ID = 27, location ID = 0xfa121000, product ID = 0x12a8})
+8/24/16, 2:37 AM: Attach D11AP device "iPhone" (AMDevice 0x100700e60 {UDID = fa20c8935a9244b4a8b56d5e07cdd512765f5b15, device ID = 25, location ID = 0xfd121000, product ID = 0x12a8})
